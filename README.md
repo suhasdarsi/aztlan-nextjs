@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+## App Components
+
+### Pages
+1. Home
+2. About
+3. Contact
+4. Products
+5. _document.js
+6. _app.js
+
+
+### Components
+1. NavBar
+2. Footer
 
 ## Getting Started
 
