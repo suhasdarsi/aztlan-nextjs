@@ -5,9 +5,6 @@
 2. About
 3. Contact
 4. Products
-5. _document.js
-6. _app.js
-
 
 ### Components
 1. NavBar
