@@ -1,5 +1,5 @@
 # Azltan Official Website
-This is the official website of aztlan(www.aztlan.in). The project is built to scale up as the needs of the organisation
+This is the official website of [Aztlan](www.aztlan.in). The project is built to scale up as the needs of the organisation
 go up.
 
 ## Getting started
@@ -26,9 +26,9 @@ In-progress.
 
 ## Built With
 
-1. Nextjs(https://nextjs.org/)
-2. Reactjs(https://reactjs.org/)
-3. Material UI(https://material-ui.com/)
+1. [Nextjs](https://nextjs.org/)
+2. [Reactjs](https://reactjs.org/)
+3. [Material UI](https://material-ui.com/)
    1. Material UI - core
    2. Material UI - icons
 
