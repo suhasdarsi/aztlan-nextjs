@@ -11,7 +11,7 @@ You need to have nodejs > 10.x installed on your system and npm or yarn for the 
 
 ### Installing
 
-``` nodejs
+``` bash
     yarn create next-app
     # or
     npm init next-app
