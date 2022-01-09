@@ -1,17 +1,20 @@
 # Azltan Official Website
+
 This is the official website of [Aztlan](www.aztlan.in). The project is built to scale up as the needs of the organisation
 go up.
 
 ## Getting started
-These instruction will get you a copy of the project up and running on your local machine for development and 
+
+These instruction will get you a copy of the project up and running on your local machine for development and
 testing purposes. See development notes on how to deploy the project on a live system.
 
 ### Prerequisites
+
 You need to have nodejs > 10.x installed on your system and npm or yarn for the rest of the process.
 
 ### Installing
 
-``` bash
+```bash
     yarn create next-app
     # or
     npm init next-app
@@ -31,17 +34,3 @@ In-progress.
 3. [Material UI](https://material-ui.com/)
    1. Material UI - core
    2. Material UI - icons
-
-
-## App Components
-
-### Pages
-1. Home
-2. About
-3. Contact
-4. Products
-
-### Components
-1. NavBar
-2. Footer
-
